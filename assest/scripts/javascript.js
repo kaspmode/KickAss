@@ -12,4 +12,6 @@ function previewFile() {
   } else {
     preview.src = "";
   }
+
+ 
 }
